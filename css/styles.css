@@ -44,7 +44,7 @@ body{
 .cabecera{
     padding: 60px;
     text-align: center;
-    background-image: url(../img/header.jpg);
+    background-image: url(./img/webp/header.webp);
     background-repeat: no-repeat;
     background-size: cover;
 }
