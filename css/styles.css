@@ -134,7 +134,7 @@ body{
 }
 
 .fecha__post{
-    color: var(--color-secondary-dark);
+    color: var(--color-primary-dark);
     font-size: small;
 }
 
